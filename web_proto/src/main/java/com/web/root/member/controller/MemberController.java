@@ -20,6 +20,12 @@ public class MemberController {
 	//memberList => condition : rank 3 only
 	
 	//
+
+	//sign in
+	//sign in
+	//sign in
+	//sign in
+
 	
 	
 	
@@ -29,4 +35,5 @@ public class MemberController {
 	private String test3;
 	private String test4;
 	
+
 }

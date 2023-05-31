@@ -25,11 +25,11 @@ public class MemberController {
 	//sign in
 	//sign in
 	//sign in
-
-	
-	
-	
-	
+	//memberList => condition : rank 3 only
+	//memberList => condition : rank 3 only
+	//memberList => condition : rank 3 only
+	//memberList => condition : rank 3 only
+	//memberList => condition : rank 3 only
 	private String test1;
 	private String test2;
 	private String test3;

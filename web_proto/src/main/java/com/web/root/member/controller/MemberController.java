@@ -53,6 +53,8 @@ public class MemberController {
 //	private String test4;
 //	private String test10;
 //	private String test11;
+//	private String test10;
+//	private String test11;
 	
 
 }

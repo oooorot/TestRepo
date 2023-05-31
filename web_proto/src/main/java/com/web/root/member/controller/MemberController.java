@@ -22,4 +22,11 @@ public class MemberController {
 	//
 	
 	
+	
+	
+	private String test1;
+	private String test2;
+	private String test3;
+	private String test4;
+	
 }
